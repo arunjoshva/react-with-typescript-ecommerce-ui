@@ -7,7 +7,7 @@ This project demonstrates real-world features like product browsing, cart manage
 
 ## Live Demo
 
-(Add your deployed link here)
+https://react-with-typescript-ecommerce-ui.netlify.app/
 
 ---
 
